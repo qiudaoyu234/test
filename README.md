@@ -66,4 +66,4 @@
 
   ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.17qq.com%2Fimg_qqtouxiang%2F32175273.jpeg&refer=http%3A%2F%2Fwww.17qq.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622127549&t=375e901db13e66b284ab781a41b98feb)
 
-[Go to this page](subdir/edsrv.md)
+[Go to this page](edsrv.md)
