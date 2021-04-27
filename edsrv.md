@@ -6,4 +6,4 @@
 |  ----  | ----  |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
-[Go to this page](subdir/README.md)
+[Go to this page](README.md)
